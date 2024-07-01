@@ -1,0 +1,11 @@
+/* styles.css */
+
+/* Include base styles */
+@tailwind base;
+
+/* Include component styles */
+@tailwind components;
+
+/* Include utility styles */
+@tailwind utilities;
+
